@@ -1,0 +1,5 @@
+INSTALACION DE IONIC
+
+COMANDO DE INSTALACION
+npm i -g @ionic/cli
+
