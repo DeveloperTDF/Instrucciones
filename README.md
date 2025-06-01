@@ -1,2 +1,0 @@
-# Instrucciones
-instrucciones de instalaciones
