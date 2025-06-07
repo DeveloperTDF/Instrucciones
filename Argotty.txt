@@ -1,0 +1,4 @@
+C:\Users\PC>ionic -v
+7.2.1
+
+C:\Users\PC>
