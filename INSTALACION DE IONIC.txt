@@ -1,7 +1,0 @@
-INSTALACION DE IONIC
-
-COMANDO DE INSTALACION
-npm i -g @ionic/cli
-
-
-en el archivo word muestra paso a paso la instalacion,con los dos casos , si esta nodejs instalado y si no esta instalado ( lo cual daria el error como la foto captura) en ambos casos indico que se debe hacer. 
