@@ -1,1 +1,0 @@
-mi version de ionic es 7.2.1
